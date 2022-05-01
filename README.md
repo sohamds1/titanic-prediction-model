@@ -11,3 +11,5 @@ The graph of logistic regression is as shown below:
 [![](https://raw.githubusercontent.com/sohamds1/titanic-prediction-model/main/proj%20pics/1.png)](https://raw.githubusercontent.com/sohamds1/titanic-prediction-model/main/proj%20pics/1.png)
 
 The server is run on Flask, hence the installation of Flask is required along with all the libraries.
+
+> Run the app from app.py
